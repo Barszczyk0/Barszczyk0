@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script src="https://tryhackme.com/badge/949892"></script>
+
 
 ![Barszczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=barszczyk0&show_icons=true&theme=midnight-purple)
