@@ -5,7 +5,7 @@
 
 ◼️ I'm currently working on my university projects
 
-&nbsp;&nbsp;&nbsp;&nbsp; ◾ Burp Suite extension
+&nbsp;&nbsp;&nbsp;&nbsp; ◾ Burp Suite NoSQL injection extension
 
 &nbsp;&nbsp;&nbsp;&nbsp; ◾ Greenbone extension    
 
