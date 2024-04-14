@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Barszczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=barszczyk0&show_icons=true&theme=midnight-purple&hide=prs,issues,contribs&bg_color=010409&text_color=000000)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agave&size=24&pause=750&color=9745F5&center=true&random=false&width=435&lines=Welcome;Check+out+my+repositories;Projects%2C+notes%2C+walkthrough)](https://git.io/typing-svg)
+![Barszczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=barszczyk0&theme=midnight-purple&hide=prs,issues&show_icons=true&bg_color=010409)
