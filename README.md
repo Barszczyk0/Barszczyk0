@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agave&size=24&pause=750&color=9745F5&random=false&width=435&lines=Welcome;Check+out+my+repositories;Projects%2C+notes%2C+walkthrough)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agave&size=24&pause=750&color=9745F5&random=false&width=435&lines=Welcome+to+my+profile;Check+out+my+repositories;Projects%2C+notes%2C+walkthrough)](https://git.io/typing-svg)
 
 ◼️ I'm learning cybersecurity
 
