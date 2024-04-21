@@ -16,7 +16,7 @@
 
 ------
 
-| ![Barszczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=barszczyk0&theme=chartreuse-dark&hide=prs,issues&show_icons=true&bg_color=010409&icon_color=7fff00) | <img src="https://tryhackme-badges.s3.amazonaws.com/Barszczyk.png" alt="TryHackMe"> |
+| ![Barszczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=barszczyk0&theme=chartreuse-dark&hide=prs,issues&show_icons=true&bg_color=010409&icon_color=7fff00) | [<img src="https://tryhackme-badges.s3.amazonaws.com/Barszczyk.png" alt="TryHackMe">](https://tryhackme.com/p/Barszczyk) |
 | :----------------: | :------: | 
 
 ------
