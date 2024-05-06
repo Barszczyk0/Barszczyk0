@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agave&size=24&pause=750&color=7fff00&random=false&width=435&lines=Welcome+to+my+profile;Check+out+my+repositories;Projects%2C+notes%2C+walkthrough)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agave&size=24&pause=750&color=7fff00&random=false&width=435&lines=Welcome+to+my+profile;Check+out+my+repositories;Projects%2C+notes%2C+walkthroughs)](https://git.io/typing-svg)
 
 ◼️ I'm learning cybersecurity
 
