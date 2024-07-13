@@ -2,14 +2,6 @@
 
 ◼️ I'm learning cybersecurity
 
-◼️ I'm currently working on my university projects
-
-&nbsp;&nbsp;&nbsp;&nbsp; ◾ Burp Suite NoSQL injection extension
-
-&nbsp;&nbsp;&nbsp;&nbsp; ◾ Greenbone email reporting extension
-
-&nbsp;&nbsp;&nbsp;&nbsp; ◾ LLVM obfuscator    
-
 ◼️ I'm playing lot of CTFs
 
 ◼️ Always trying to learn something new
