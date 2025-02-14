@@ -11,7 +11,7 @@
 https://github-readme-stats.vercel.app/api?username=barszczyk0&theme=chartreuse-dark&hide=prs,issues&show_icons=true&bg_color=010409&icon_color=7fff00
 -->
 
-| [<img width="300" src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Barszczyk.png" alt="CyberDefenders">](https://cyberdefenders.org/p/Barszczyk) | [<img src="https://tryhackme-badges.s3.amazonaws.com/Barszczyk.png" alt="TryHackMe">](https://tryhackme.com/p/Barszczyk) |
+| [<img src="https://tryhackme-badges.s3.amazonaws.com/Barszczyk.png" alt="TryHackMe">](https://tryhackme.com/p/Barszczyk) | [<img width="300" src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Barszczyk.png" alt="CyberDefenders">](https://cyberdefenders.org/p/Barszczyk) |
 | :----------------: | :------: | 
 
 ------
