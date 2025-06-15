@@ -17,6 +17,6 @@ https://github-readme-stats.vercel.app/api?username=barszczyk0&theme=chartreuse-
 ------
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,java,cpp,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,java,cpp,rust,js,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,vim,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,neovim)](https://skillicons.dev)
